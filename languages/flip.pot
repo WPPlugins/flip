@@ -1,0 +1,174 @@
+# Copyright (C) 2017 FLiP
+# This file is distributed under the same license as the FLiP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FLiP 1.5.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flip\n"
+"POT-Creation-Date: 2017-05-26 09:58:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: flip.php:86 flip.php:127
+msgid "Settings"
+msgstr ""
+
+#: flip.php:129
+msgid "API access key"
+msgstr ""
+
+#: flip.php:136
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: flip.php:136
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: flip.php:136
+msgid "Spanish"
+msgstr ""
+
+#: flip.php:137
+msgid "Language"
+msgstr ""
+
+#: flip.php:139
+msgid "Use the Spelling Reform"
+msgstr ""
+
+#: flip.php:142
+msgid "Only for Portuguese"
+msgstr ""
+
+#: flip.php:145
+msgid "Add words to custom dictionary"
+msgstr ""
+
+#: flip.php:145
+msgid "Only available in the full version"
+msgstr ""
+
+#: flip.php:147
+msgid "Current"
+msgstr ""
+
+#: flip.php:147
+msgid "Formal"
+msgstr ""
+
+#: flip.php:147
+msgid "Informal"
+msgstr ""
+
+#: flip.php:148
+msgid "Writing style"
+msgstr ""
+
+#: flip.php:151
+msgid "Advanced options"
+msgstr ""
+
+#: flip.php:153
+msgid "API address"
+msgstr ""
+
+#: flip.php:156
+msgid "Attention: Updating this field can make the plugin unavailable"
+msgstr ""
+
+#: flip.php:245
+msgid "More suggestions"
+msgstr ""
+
+#: flip.php:246
+msgid "Add word"
+msgstr ""
+
+#: flip.php:247
+msgid "Ignore"
+msgstr ""
+
+#: flip.php:248
+msgid "Ignore All"
+msgstr ""
+
+#: flip.php:249
+msgid "The connection to the server expired."
+msgstr ""
+
+#: flip.php:287
+msgid ""
+"Click <a href=\"%s\" target=\"_blank\">here</a> to buy an API key and use "
+"the full FLiP proofing tools"
+msgstr ""
+
+#: flip.php:288
+msgid "Leaving this field empty you will be using a limited version of FLiP"
+msgstr ""
+
+#: flip.php:290
+msgid ""
+"Key is invalid or has expired. To use a limited version of FliP leave the "
+"key empty."
+msgstr ""
+
+#: flip.php:292
+msgid "Server unavailable."
+msgstr ""
+
+#: settings_page.php:11
+msgid "FLiP - Portuguese proofing tools, by Priberam"
+msgstr ""
+
+#: settings_page.php:16
+msgid ""
+"Check the spelling, grammar and style of your texts with <a href=\"%s\" "
+"target=\"_blank\">FLiP</a>, the proofing tools used in the biggest "
+"Portuguese language publishers, both in Portugal and in Brazil. FLiP's "
+"WordPress plugin includes spell checkers, grammar checkers and style "
+"checkers for Brazilian and European Portuguese, with the option to use the "
+"Spelling Reform of 1990. Vertical lexicons for tens of knowledge domains are "
+"available to proofread texts of specific areas. It is possible to choose "
+"between 3 writing styles."
+msgstr ""
+
+#: settings_page.php:21
+msgid ""
+"IMPORTANT: the free version of the plugin only checks the spelling and does "
+"not use the Spelling Reform of 1990. Additionally it doesn't suggest any "
+"corrections for the highlighted errors. That is, no grammar or style errors "
+"are checked, the Spelling Reform of 1990 is not available and, for the "
+"spelling mistakes which are highlighted, no corrections are suggested."
+msgstr ""
+
+#: settings_page.php:26
+msgid ""
+"To be able to fully use the plugin you must get an access key <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "FLiP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.flip.pt/Produtos/Plugin-do-FLiP-para-WordPress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Portuguese spell checker, grammar checker and style checker, with or without "
+"the Spelling Reform of 1990."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Priberam"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.priberam.pt"
+msgstr ""

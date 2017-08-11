@@ -1,0 +1,209 @@
+# Copyright (C) 2017 FLiP
+# This file is distributed under the same license as the FLiP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FLiP 1.5.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flip\n"
+"POT-Creation-Date: 2017-03-22 17:00+0000\n"
+"PO-Revision-Date: 2017-04-04 16:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Priberam <sac@priberam.pt>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: flip.php:79
+msgid "Settings"
+msgstr "Settings"
+
+#: flip.php:117
+msgid "Opções"
+msgstr "Settings"
+
+#: flip.php:119
+msgid "Chave de acesso à API"
+msgstr "API access key"
+
+#: flip.php:122
+msgid ""
+"Clique <a href=\"%s\" target=\"_blank\">aqui</a> para adquirir uma chave da "
+"API e utilizar a versão completa do FLiP"
+msgstr ""
+"Click <a href=\"%s\" target=\"_blank\">here</a> to buy an API key and use "
+"the full FLiP proofing tools"
+
+#: flip.php:123
+msgid "Se deixar este campo vazio irá usar uma versão limitada do FLiP"
+msgstr ""
+"If you leave this field empty you will be using a limited version of FLiP"
+
+#: flip.php:126
+msgid "Português de Portugal"
+msgstr "Portuguese (Portugal)"
+
+#: flip.php:126
+msgid "Português do Brasil"
+msgstr "Portuguese (Brazil)"
+
+#: flip.php:126
+msgid "Espanhol"
+msgstr "Spanish"
+
+#: flip.php:127
+msgid "Língua"
+msgstr "Language"
+
+#: flip.php:129
+msgid "A(c)tivar Acordo Ortográfico"
+msgstr "Use the Spelling Reform"
+
+#: flip.php:132
+msgid "Só disponível para o Português"
+msgstr "Only for Portuguese"
+
+#: flip.php:135
+msgid "Adicionar palavras a dicionário pessoal"
+msgstr "Add words to custom dictionary"
+
+#: flip.php:135
+msgid "Só disponível na versão completa"
+msgstr "Only available in the full version"
+
+#: flip.php:137
+msgid "Corrente"
+msgstr "Current"
+
+#: flip.php:137
+msgid "Formal"
+msgstr "Formal"
+
+#: flip.php:137
+msgid "Informal"
+msgstr "Informal"
+
+#: flip.php:138
+msgid "Estilo de escrita"
+msgstr "Writing style"
+
+#: flip.php:141
+msgid "Opções avançadas"
+msgstr "Advanced options"
+
+#: flip.php:143
+msgid "Endereço da API"
+msgstr "API address"
+
+#: flip.php:146
+msgid "Atenção: Alterar este campo poderá deixar o plugin sem funcionar"
+msgstr "Attention: Updating this field can make the plugin unavailable"
+
+#: flip.php:234
+msgid "Mais sugestões"
+msgstr "More suggestions"
+
+#: flip.php:235
+msgid "Adicionar palavra"
+msgstr "Add word"
+
+#: flip.php:236
+msgid "Ignorar"
+msgstr "Ignore"
+
+#: flip.php:237
+msgid "Ignorar todos"
+msgstr "Ignore All"
+
+#: flip.php:238
+msgid "FLiP: A ligação ao servidor expirou."
+msgstr "The connection to the server expired."
+
+#: settings_page.php:11
+msgid "FLiP – Ferramentas para a Língua Portuguesa, da Priberam"
+msgstr "FLiP - Portuguese proofing tools, by Priberam"
+
+#: settings_page.php:16
+msgid ""
+"Verifique a ortografia, sintaxe e estilo dos seus textos com o <a href=\"%s"
+"\" target=\"_blank\">FLiP</a>, o pacote de ferramentas de revisão usado nos "
+"maiores produtores de conteúdos em língua portuguesa. Este plugin do FLiP "
+"para WordPress inclui correctores ortográficos, sintácticos e estilísticos "
+"para o português de Portugal e para o português do Brasil, com a opção de "
+"usar ou não a grafia segundo o Acordo Ortográfico de 1990. Estão ainda "
+"disponíveis dicionários temáticos que agrupam dezenas de domínios do "
+"conhecimento, permitindo a rápida verificação de textos de áreas "
+"específicas. É possível escolher entre 3 tipos de escrita."
+msgstr ""
+"Check the spelling, grammar and style of your texts with <a href=\"%s\" "
+"target=\"_blank\">FLiP</a>, the proofing tools used in the biggest "
+"Portuguese language publishers, both in Portugal and in Brazil. FLiP's "
+"WordPress plugin includes spell checkers, grammar checkers and style "
+"checkers for Brazilian and European Portuguese, with the option to use the "
+"Spelling Reform of 1990. Vertical lexicons for tens of knowledge domains are "
+"available to proofread texts of specific areas. It is possible to choose "
+"between 3 writing styles."
+
+#: settings_page.php:21
+msgid ""
+"IMPORTANTE: A versão gratuita do plugin apenas faz a verificação ortográfica "
+"na grafia anterior ao Acordo Ortográfico de 1990 e não apresenta sugestões "
+"de correcção. Isto é, não são verificados erros sintácticos nem de estilo, "
+"apenas podem ser usadas as grafias anteriores ao Acordo Ortográfico de 1990 "
+"e, para os erros ortográficos assinalados, não são apresentadas sugestões de "
+"correcção."
+msgstr ""
+"IMPORTANT: the free version of the plugin only checks the spelling and does "
+"not use the Spelling Reform of 1990. Additionally it doesn't suggest any "
+"corrections for the highlighted errors. That is, no grammar or style errors "
+"are checked, the Spelling Reform of 1990 is not available and, for the "
+"spelling mistakes which are highlighted, no corrections are suggested."
+
+#: settings_page.php:26
+msgid ""
+"Para usufruir de todas as funcionalidades do plugin deverá adquirir uma "
+"chave de acesso <a href=\"%s\" target=\"_blank\">aqui</a>."
+msgstr ""
+"To be able to fully use the plugin you must get an access key <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+
+#. Plugin Name of the plugin/theme
+msgid "FLiP"
+msgstr "FLiP"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.priberam.pt"
+msgstr "http://www.priberam.pt"
+
+#. Description of the plugin/theme
+msgid ""
+"Corre(c)tor ortográfico, sintá(c)tico e estilístico para português, com ou "
+"sem o Acordo Ortográfico de 1990."
+msgstr ""
+"Portuguese spell checker, grammar checker and style checker, with or without "
+"the Spelling Reform of 1990."
+
+#. Author of the plugin/theme
+msgid "Priberam"
+msgstr "Priberam"
+
+#~ msgid "Comum"
+#~ msgstr "Current"
+
+#~ msgid "Adiciona palavra"
+#~ msgstr "Add word"
+
+#~ msgid "Ignora"
+#~ msgstr "Ignore"
+
+#~ msgid "Ignora todos"
+#~ msgstr "Ignore all"
+
+#~ msgid ""
+#~ "Carregue <a href=\"%s\" target=\"_blank\">aqui</a> para adquirir uma "
+#~ "chave da API e utilizar a versão completa do FLiP"
+#~ msgstr ""
+#~ "Click <a href=\"%s\" target=\"_blank\">here</a> to buy an API key and use "
+#~ "the full FLiP proofing tools"

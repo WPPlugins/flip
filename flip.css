@@ -1,0 +1,66 @@
+﻿i.mce-i-flipicon {
+    background-image: url(flip9.png);
+}
+
+.pba_ort_error {
+    text-decoration: none;
+    background: url(ort_error.png) repeat-x scroll 50% 100% rgba(0, 0, 0, 0);
+}
+
+.pba_gram_error {
+    text-decoration: none;
+    background: url(gram_error.png) repeat-x scroll 50% 100% rgba(0, 0, 0, 0);
+}
+
+.pba_hide_error {
+    text-decoration: none;
+    background: none !important;
+}
+
+div.flipstatus {
+    float: right;
+    width: 16px;
+    height: 16px;
+}
+
+.flipstatus.ckeditor {
+    margin-right: 10px;
+}
+
+
+.flipstatus.tinymce {
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+
+.flipstatus.stopped {
+    display: none;
+}
+
+.flipstatus.noerrors {
+    background-image: url(status_noerrors.png);
+}
+
+.flipstatus.checking {
+    background-image: url(status_checking.png);
+}
+
+.flipstatus.haserrors {
+    background-image: url(status_haserrors.png);
+}
+
+.flipstatus.version_mismatch {
+    background-image: url(status_disabled.png);
+}
+
+.setting_details {
+    margin-left: 10px;
+    font-size: small;
+}
+
+.setting_comment {
+    margin: 5px 10px;
+    font-size: smaller;
+    font-style: italic;
+}

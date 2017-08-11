@@ -1,0 +1,319 @@
+# Copyright (C) 2017 FLiP
+# This file is distributed under the same license as the FLiP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FLiP 1.5.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flip\n"
+"POT-Creation-Date: 2017-04-06 17:56+0100\n"
+"PO-Revision-Date: 2017-04-06 18:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: Priberam <sac@priberam.pt>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: flip.php:79 flip.php:117
+msgid "Settings"
+msgstr "Opções"
+
+#: flip.php:123
+msgid ""
+"Click <a href=\"%s\" target=\"_blank\">here</a> to buy an API key and use "
+"the full FLiP proofing tools"
+msgstr ""
+"Clique <a href=\"%s\" target=\"_blank\">aqui</a> para adquirir uma chave da "
+"API e utilizar a versão completa do FLiP"
+
+#: flip.php:124
+msgid "Leaving this field empty you will be using a limited version of FLiP"
+msgstr "\tSe deixar este campo vazio irá usar uma versão limitada do FLiP"
+
+#: flip.php:134
+msgid ""
+"Key is invalid or has expired. To use a limited version of FliP leave the "
+"key empty."
+msgstr ""
+"Chave inválida ou expirada. Para usar uma versão limitada do FLiP deixe o "
+"campo da chave vazio."
+
+#: flip.php:139
+msgid "API access key"
+msgstr "Chave de acesso à API"
+
+#: flip.php:146
+msgid "Portuguese (Portugal)"
+msgstr "Português de Portugal"
+
+#: flip.php:146
+msgid "Portuguese (Brazil)"
+msgstr "Português do Brasil"
+
+#: flip.php:146
+msgid "Spanish"
+msgstr "Espanhol"
+
+#: flip.php:147
+msgid "Language"
+msgstr "Língua"
+
+#: flip.php:149
+msgid "Use the Spelling Reform"
+msgstr "A(c)tivar Acordo Ortográfico"
+
+#: flip.php:152
+msgid "Only for Portuguese"
+msgstr "Só disponível para o Português"
+
+#: flip.php:155
+msgid "Add words to custom dictionary"
+msgstr "Adicionar palavras a dicionário pessoal"
+
+#: flip.php:155
+msgid "Only available in the full version"
+msgstr "Só disponível na versão completa"
+
+#: flip.php:157
+msgid "Current"
+msgstr "Corrente"
+
+#: flip.php:157
+msgid "Formal"
+msgstr "Formal"
+
+#: flip.php:157
+msgid "Informal"
+msgstr "Informal"
+
+#: flip.php:158
+msgid "Writing style"
+msgstr "Estilo de escrita"
+
+#: flip.php:161
+msgid "Advanced options"
+msgstr "Opções avançadas"
+
+#: flip.php:163
+msgid "API address"
+msgstr "Endereço da API"
+
+#: flip.php:166
+msgid "Attention: Updating this field can make the plugin unavailable"
+msgstr ""
+"Atenção: Alterar este campo poderá deixar o <i>plugin</i> sem funcionar"
+
+#: flip.php:258
+msgid "More suggestions"
+msgstr "Mais sugestões"
+
+#: flip.php:259
+msgid "Add word"
+msgstr "Adicionar palavra"
+
+#: flip.php:260
+msgid "Ignore"
+msgstr "Ignorar"
+
+#: flip.php:261
+msgid "Ignore All"
+msgstr "Ignorar todos"
+
+#: flip.php:262
+msgid "The connection to the server expired."
+msgstr "A ligação ao servidor expirou."
+
+#: settings_page.php:11
+msgid "FLiP - Portuguese proofing tools, by Priberam"
+msgstr "FLiP - Ferramentas para a Língua Portuguesa, da Priberam"
+
+#: settings_page.php:16
+msgid ""
+"Check the spelling, grammar and style of your texts with <a href=\"%s\" "
+"target=\"_blank\">FLiP</a>, the proofing tools used in the biggest "
+"Portuguese language publishers, both in Portugal and in Brazil. FLiP's "
+"WordPress plugin includes spell checkers, grammar checkers and style "
+"checkers for Brazilian and European Portuguese, with the option to use the "
+"Spelling Reform of 1990. Vertical lexicons for tens of knowledge domains are "
+"available to proofread texts of specific areas. It is possible to choose "
+"between 3 writing styles."
+msgstr ""
+"Verifique a ortografia, sintaxe e estilo dos seus textos com o <a href=\"%s"
+"\" target=\"_blank\">FLiP</a>, o pacote de ferramentas de revisão usado nos "
+"maiores produtores de conteúdos em língua portuguesa. Este <i>plugin</i> do "
+"FLiP para WordPress inclui corre(c)tores ortográficos, sintá(c)ticos e "
+"estilísticos para o português de Portugal e para o português do Brasil, com "
+"a opção de usar ou não a grafia segundo o Acordo Ortográfico de 1990. Estão "
+"ainda disponíveis dicionários temáticos que agrupam dezenas de domínios do "
+"conhecimento, permitindo a rápida verificação de textos de áreas "
+"específicas. É possível escolher entre 3 tipos de escrita."
+
+#: settings_page.php:21
+msgid ""
+"IMPORTANT: the free version of the plugin only checks the spelling and does "
+"not use the Spelling Reform of 1990. Additionally it doesn't suggest any "
+"corrections for the highlighted errors. That is, no grammar or style errors "
+"are checked, the Spelling Reform of 1990 is not available and, for the "
+"spelling mistakes which are highlighted, no corrections are suggested."
+msgstr ""
+"IMPORTANTE: A versão gratuita do <i>plugin</i> apenas faz a verificação "
+"ortográfica na grafia anterior ao Acordo Ortográfico de 1990 e não apresenta "
+"sugestões de corre(c)ção, isto é, não são verificados erros sintá(c)ticos "
+"nem de estilo, apenas podem ser usadas as grafias anteriores ao Acordo "
+"Ortográfico de 1990 e, para os erros ortográficos assinalados, não são "
+"apresentadas sugestões de corre(c)ção."
+
+#: settings_page.php:26
+msgid ""
+"To be able to fully use the plugin you must get an access key <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Para usufruir de todas as funcionalidades do <i>plugin</i> deverá adquirir "
+"uma chave de acesso <a href=\"%s\" target=\"_blank\">aqui</a>."
+
+#. Plugin Name of the plugin/theme
+msgid "FLiP"
+msgstr "FLiP"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.priberam.pt"
+msgstr "http://www.priberam.pt"
+
+#. Description of the plugin/theme
+msgid ""
+"Portuguese spell checker, grammar checker and style checker, with or without "
+"the Spelling Reform of 1990."
+msgstr ""
+"Corre(c)tor ortográfico, sintá(c)tico e estilístico para português, com ou "
+"sem o Acordo Ortográfico de 1990."
+
+#. Author of the plugin/theme
+msgid "Priberam"
+msgstr "Priberam"
+
+#~ msgid "Opções"
+#~ msgstr "Opções"
+
+#~ msgid "Chave de acesso à API"
+#~ msgstr "Chave de acesso à API"
+
+#~ msgid ""
+#~ "Clique <a href=\"%s\" target=\"_blank\">aqui</a> para adquirir uma chave "
+#~ "da API e utilizar a versão completa do FLiP"
+#~ msgstr ""
+#~ "Clique <a href=\"%s\" target=\"_blank\">aqui</a> para adquirir uma chave "
+#~ "da API e utilizar a versão completa do FLiP"
+
+#~ msgid "Se deixar este campo vazio irá usar uma versão limitada do FLiP"
+#~ msgstr "Se deixar este campo vazio irá usar uma versão limitada do FLiP"
+
+#~ msgid "Português de Portugal"
+#~ msgstr "Português de Portugal"
+
+#~ msgid "Português do Brasil"
+#~ msgstr "Português do Brasil"
+
+#~ msgid "Espanhol"
+#~ msgstr "Espanhol"
+
+#~ msgid "Língua"
+#~ msgstr "Língua"
+
+#~ msgid "A(c)tivar Acordo Ortográfico"
+#~ msgstr "A(c)tivar Acordo Ortográfico"
+
+#~ msgid "Só disponível para o Português"
+#~ msgstr "Só disponível para o Português"
+
+#~ msgid "Adicionar palavras a dicionário pessoal"
+#~ msgstr "Adicionar palavras a dicionário pessoal"
+
+#~ msgid "Só disponível na versão completa"
+#~ msgstr "Só disponível na versão completa"
+
+#~ msgid "Corrente"
+#~ msgstr "Corrente"
+
+#~ msgid "Estilo de escrita"
+#~ msgstr "Estilo de escrita"
+
+#~ msgid "Opções avançadas"
+#~ msgstr "Opções avançadas"
+
+#~ msgid "Endereço da API"
+#~ msgstr "Endereço da API"
+
+#~ msgid "Atenção: Alterar este campo poderá deixar o plugin sem funcionar"
+#~ msgstr "Atenção: Alterar este campo poderá deixar o plugin sem funciona"
+
+#~ msgid "Mais sugestões"
+#~ msgstr "Mais sugestões"
+
+#~ msgid "Adicionar palavra"
+#~ msgstr "Adicionar palavra"
+
+#~ msgid "Ignorar"
+#~ msgstr "Ignorar"
+
+#~ msgid "Ignorar todos"
+#~ msgstr "Ignorar todos"
+
+#~ msgid "FLiP: A ligação ao servidor expirou."
+#~ msgstr "FLiP: A ligação ao servidor expirou."
+
+#~ msgid "FLiP – Ferramentas para a Língua Portuguesa, da Priberam"
+#~ msgstr "FLiP – Ferramentas para a Língua Portuguesa, da Priberam"
+
+#~ msgid ""
+#~ "Verifique a ortografia, sintaxe e estilo dos seus textos com o <a href="
+#~ "\"%s\" target=\"_blank\">FLiP</a>, o pacote de ferramentas de revisão "
+#~ "usado nos maiores produtores de conteúdos em língua portuguesa. Este "
+#~ "plugin do FLiP para WordPress inclui correctores ortográficos, "
+#~ "sintácticos e estilísticos para o português de Portugal e para o "
+#~ "português do Brasil, com a opção de usar ou não a grafia segundo o Acordo "
+#~ "Ortográfico de 1990. Estão ainda disponíveis dicionários temáticos que "
+#~ "agrupam dezenas de domínios do conhecimento, permitindo a rápida "
+#~ "verificação de textos de áreas específicas. É possível escolher entre 3 "
+#~ "tipos de escrita."
+#~ msgstr ""
+#~ "Verifique a ortografia, sintaxe e estilo dos seus textos com o <a href="
+#~ "\"%s\" target=\"_blank\">FLiP</a>, o pacote de ferramentas de revisão "
+#~ "usado nos maiores produtores de conteúdos em língua portuguesa. Este "
+#~ "plugin do FLiP para WordPress inclui correctores ortográficos, "
+#~ "sintácticos e estilísticos para o português de Portugal e para o "
+#~ "português do Brasil, com a opção de usar ou não a grafia segundo o Acordo "
+#~ "Ortográfico de 1990. Estão ainda disponíveis dicionários temáticos que "
+#~ "agrupam dezenas de domínios do conhecimento, permitindo a rápida "
+#~ "verificação de textos de áreas específicas. É possível escolher entre 3 "
+#~ "tipos de escrita."
+
+#~ msgid ""
+#~ "IMPORTANTE: A versão gratuita do plugin apenas faz a verificação "
+#~ "ortográfica na grafia anterior ao Acordo Ortográfico de 1990 e não "
+#~ "apresenta sugestões de correcção. Isto é, não são verificados erros "
+#~ "sintácticos nem de estilo, apenas podem ser usadas as grafias anteriores "
+#~ "ao Acordo Ortográfico de 1990 e, para os erros ortográficos assinalados, "
+#~ "não são apresentadas sugestões de correcção."
+#~ msgstr ""
+#~ "IMPORTANTE: A versão gratuita do plugin apenas faz a verificação "
+#~ "ortográfica na grafia anterior ao Acordo Ortográfico de 1990 e não "
+#~ "apresenta sugestões de correcção. Isto é, não são verificados erros "
+#~ "sintácticos nem de estilo, apenas podem ser usadas as grafias anteriores "
+#~ "ao Acordo Ortográfico de 1990 e, para os erros ortográficos assinalados, "
+#~ "não são apresentadas sugestões de correcção."
+
+#~ msgid ""
+#~ "Para usufruir de todas as funcionalidades do plugin deverá adquirir uma "
+#~ "chave de acesso <a href=\"%s\" target=\"_blank\">aqui</a>."
+#~ msgstr ""
+#~ "Para usufruir de todas as funcionalidades do plugin deverá adquirir uma "
+#~ "chave de acesso <a href=\"%s\" target=\"_blank\">aqui</a>."
+
+#~ msgid ""
+#~ "Corre(c)tor ortográfico, sintá(c)tico e estilístico para português, com "
+#~ "ou sem o Acordo Ortográfico de 1990."
+#~ msgstr ""
+#~ "Corre(c)tor ortográfico, sintá(c)tico e estilístico para português, com "
+#~ "ou sem o Acordo Ortográfico de 1990."
